@@ -16,6 +16,6 @@ What we do here:
 
 Replication code for the article "How effective are cash transfer programs in mitigating income instability? Evidence from the AUH in Argentina" (Carrère, 2025)
 
--Published version: Forthcoming in the Journal of Development Studies...
+-Published version: Forthcoming in the Journal of Development Studies. Available online : https://www.tandfonline.com/doi/full/10.1080/00220388.2025.2577321
 
 -Working paper version: https://hal.science/hal-04525248
